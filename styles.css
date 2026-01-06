@@ -44,73 +44,11 @@ header {
     opacity: 10%  ;
  }
 
- .hero {
+ .intro {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 5rem auto;
     max-width: 1200px;
  }
-
- .bigcat{
-   position: relative;
-   transform: translateX(-5.5rem) translateY(1.5rem);
- }
-
- .herosub {
-   display: flex;
-   flex-direction: column;
-   gap: 0.1rem;
-   grid-auto-columns: 0.5rem;
- }
-
- .title {
-   font-size: 4rem;
-   color: #ffffff;
- }
-
- .cotitle {
-   font-size: 5rem;
-   color: #52f4f4;
- }
-
- .moreinfo{
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   margin: 5rem auto;
-   max-width: 1200px;
-   gap: 10rem;
-
- }
-
- .textContainer {
-   display: flex;
-   flex-direction: column;
- }
-
- .textTitle {
-   display: flex;
-   align-items: center;
-   gap: 5px;
-   font-size: 2rem;
- }
-
- .FirstFact {
-   color: #52f4f4;
-   font-size: 2rem;
- }
-
- .aboutfactpar {
-   text-align: justify;
-   color: #eeeeee;
-   font-size: 1.5rem;
-
- }
- 
- .elcat {
-   position: absolute;
-   transform: translateX(-5.5rem) translateY(1.5rem);
- }
-
 
